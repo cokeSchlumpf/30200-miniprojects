@@ -11,8 +11,8 @@ Die beiden Datasets aus Competition 1 und 2 (über caret) haben wir genutzt um M
 * Random Forest (method = rf)
 * Support Vector Machine (method = svmLinear)
 
-Bester Score für Competition 1: *84% mit GBM* 
-Bester Score für Competition 2: *76% mit GBM* [result/data_comp_2_StaabWellner.csv](./result/data_comp_StabWellner.csv)
+Bester Score für Competition 1: **84% mit GBM** 
+Bester Score für Competition 2: **76% mit GBM** [result/data_comp_2_StaabWellner.csv](./result/data_comp_StabWellner.csv)
 
 ... jeweils basierend auf X-Validation Trainings/ Test-Sets
 
@@ -26,4 +26,4 @@ Mit Python haben wir ebenfalls klasische Methode mit SciKit-Learn, aber auch Mod
 * MLP
 * Keras mit einem Hidden-Layer (versch. Parameter probiert)
 
-Bester Score für Competition 1: *86% mit Keras* [results/data_comp_1_StaabWellner.csv](./result/data_comp1_StaabWellner.csv).
+Bester Score für Competition 1: **86% mit Keras** [results/data_comp_1_StaabWellner.csv](./result/data_comp1_StaabWellner.csv).
