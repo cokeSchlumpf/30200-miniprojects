@@ -4,7 +4,7 @@ Von: Till Staab & Michael Wellner
 
 # Experimente mit R
 
-Die beiden Datasets aus Competition 1 und 2 (über caret) haben wir genutzt um Modelle mit den folgenden Algorithmen in R zu trainieren (siehe auch [exploration/SecondApproachWithCaret.R](./exploration/SecondApproachWithCaret.R):
+Die beiden Datasets aus Competition 1 und 2 (über caret) haben wir genutzt um Modelle mit den folgenden Algorithmen in R zu trainieren (siehe auch [exploration/SecondApproachWithCaret.R](./exploration/SecondApproachWithCaret.R)):
 
 * Gradient Boosting Model GBM (method = gbm)
 * Extrem Gradient Boosting (method = xgbTree)
@@ -12,6 +12,7 @@ Die beiden Datasets aus Competition 1 und 2 (über caret) haben wir genutzt um M
 * Support Vector Machine (method = svmLinear)
 
 Bester Score für Competition 1: **84% mit GBM** 
+
 Bester Score für Competition 2: **76% mit GBM** [result/data_comp_2_StaabWellner.csv](./result/data_comp_StabWellner.csv)
 
 ... jeweils basierend auf X-Validation Trainings/ Test-Sets
